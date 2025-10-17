@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning as student
+I'm currently a student learning at MS RAMAIHA INSTITUTE OF TECHNOLOGY BANGALORE
 
 
 ## 🌐 Socials:
