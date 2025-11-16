@@ -3,8 +3,8 @@
 </h1>
 
 # 💫 About Me:
-<h2><b>I'm currently a student learning at MS RAMAIHA INSTITUTE OF TECHNOLOGY BANGALORE</b>
-</h2>
+<h3><b>I'm currently a student learning at MS RAMAIHA INSTITUTE OF TECHNOLOGY BANGALORE</b>
+</h3>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/varun.fk.9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/varun_kshtriya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/varun-kshatriya-b79428236) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Varunkshatriya01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:varunkshatriya145@gmail.com) 
