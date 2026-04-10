@@ -74,7 +74,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
 ## 🏆 GitHub Trophies
 
